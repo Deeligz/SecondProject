@@ -1,2 +1,2 @@
 # SecondProject
-Second Project Git
+Hello Everyone.
